@@ -4,5 +4,11 @@
         "description": "Masuot",
         "price": 10.55,
         "date-added": "Feb. 6 2024"
+    },
+    {
+        "name": "Addidas",
+        "description": "Masuot",
+        "price": 11.55,
+        "date-added": "Feb. 6 2024"
     }
 ]
