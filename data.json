@@ -1,14 +1,35 @@
 [
     {
-        "name": "Nike",
-        "description": "Masuot",
-        "price": 10.55,
-        "date-added": "Feb. 6 2024"
+      "id": 1,
+      "name": "Nike Jordan",
+      "price": 1000,
+      "description": "MASUOT",
+      "date added": "2024-02-13",
+      "imageURL": "https://th.bing.com/th/id/OIP.v7WWwCa9ECyh2_U5ELgwXQHaFj?w=740&h=555&rs=1&pid=ImgDetMain"
     },
     {
-        "name": "Addidas",
-        "description": "Masuot",
-        "price": 11.55,
-        "date-added": "Feb. 6 2024"
+      "id": 2,
+      "name": "Airmaxx",
+      "price": 2000,
+      "description": "MASUOT",
+      "date added": "2024-02-13",
+      "imageURL": "https://th.bing.com/th/id/R.558b313d083779e8957e202742945c6c?rik=YzaRC2ePSL6qfg&riu=http%3a%2f%2fi0.wp.com%2fhypebeast.com%2fimage%2f2013%2f07%2fnike-air-max-90-essential-infrared-1.jpg%3fw%3d930&ehk=3olUrrkpVpDfueWMsxFNiBvExLdWUyDa%2bHoQcXTbyek%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 3,
+      "name": "Addidas",
+      "price": 1200,
+      "description": "MASUOT",
+      "date added": "2024-02-13",
+      "imageURL": "https://i8.amplience.net/i/jpl/jd_351513_a?qlt=92https://cf.shopee.ph/file/89c2a0fe8dc82de456d8d1bf8c1adf00"
+    },
+    {
+      "id": 4,
+      "name": "Air force",
+      "price": 350,
+      "description": "MASUOT",
+      "date added": "2024-02-13",
+      "imageURL": "https://th.bing.com/th/id/OIP.390tWjPynbWiUM0GauMozgHaE-?rs=1&pid=ImgDetMain"
     }
-]
+  ]
+  
